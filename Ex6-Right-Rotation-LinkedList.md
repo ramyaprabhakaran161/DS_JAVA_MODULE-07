@@ -95,6 +95,7 @@ public class RightRotateLinkedList {
 
 ## Output:
 
+<img width="940" height="205" alt="image" src="https://github.com/user-attachments/assets/178a93c3-a2db-4152-b991-877f05815869" />
 
 
 ## Result:
